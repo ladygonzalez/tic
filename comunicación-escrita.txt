@@ -1,18 +1,8 @@
-
-
-
-
-
-
-
-
-
-
-
-concepto:La comunicación escrita es aquella que se establece a través de las palabras o de cualquier otro código escrito. El emisor y el receptor deben compartir el conocimiento de ese código en cuestión, para que la comunicación sea efectiva.
+La comunicación escrita es aquella que se establece a través de las palabras o de cualquier otro código escrito. El emisor y el receptor deben compartir el conocimiento de ese código en cuestión, para que la comunicación sea efectiva.
 
 En esta clase de comunicación, el emisor escribe mientras que el receptor lee. Siempre, como canal, habrá un dispositivo físico, que puede ser un papel o la pantalla de una computadora o incluso una pared.
 
 La comunicación escrita más antigua fue a través de pictogramas: son signos o dibujos que representan un concepto o idea.
+
 
 
